@@ -86,3 +86,8 @@ body * {
     font-size: 19px;
 }
 
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 28px;
+}
